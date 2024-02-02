@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086a"
+  },
+  "ime": "Matematika",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086b"
+  },
+  "ime": "Fizika",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086c"
+  },
+  "ime": "Hemija",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086d"
+  },
+  "ime": "Informatika",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086e"
+  },
+  "ime": "Programiranje",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800086f"
+  },
+  "ime": "Srpski jezik i knjizevnost",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000870"
+  },
+  "ime": "Engleski jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000871"
+  },
+  "ime": "Nemacki jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000872"
+  },
+  "ime": "Italijanski jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000873"
+  },
+  "ime": "Francuski jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000874"
+  },
+  "ime": "Spanski jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000875"
+  },
+  "ime": "Latinski jezik",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000876"
+  },
+  "ime": "Biologija",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000877"
+  },
+  "ime": "Istorija",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000878"
+  },
+  "ime": "Geografija",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a8000879"
+  },
+  "ime": "Svet oko nas",
+  "odobren": true,
+  "prikazi": false
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800087a"
+  },
+  "ime": "Anatomija",
+  "odobren": false,
+  "prikazi": true
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800087b"
+  },
+  "ime": "Astronomija",
+  "odobren": false,
+  "prikazi": true
+},
+{
+  "_id": {
+    "$oid": "65b3b1a430c5d3f1a800087c"
+  },
+  "ime": "Istorija umetnosti",
+  "odobren": false,
+  "prikazi": true
+},
+{
+  "_id": {
+    "$oid": "65b577dbd095e49808e871bb"
+  },
+  "ime": "Likovna kultura",
+  "odobren": true,
+  "prikazi": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b804a4044371370f9c5553"
+  },
+  "ime": "Operativni sistemi",
+  "odobren": false,
+  "prikazi": false,
+  "__v": 0
+}]

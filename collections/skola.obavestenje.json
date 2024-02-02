@@ -1,0 +1,8330 @@
+[{
+  "_id": {
+    "$oid": "65b8187c044371370f9c574e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-11T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:28:28.657Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b81881044371370f9c5761"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-10T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:28:33.848Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b81886044371370f9c5773"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-09T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:28:38.414Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8188e044371370f9c578b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-08T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:28:46.593Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b818f0b3d8677ea25048cd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:30:24.032Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b818f0b3d8677ea25048d6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:30:24.820Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b818f1b3d8677ea25048de"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:30:25.292Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b818f1b3d8677ea25048e5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-04T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-29T22:30:25.499Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83808650610387d9322b8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-30T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:04.681Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8380c650610387d9322bd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-29T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:08.634Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8380f650610387d9322c2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-28T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:11.474Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83812650610387d9322c7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-26T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:14.750Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83819650610387d9322cc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-24T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:21.666Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8381c650610387d9322d1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-22T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:24.023Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8381f650610387d9322d6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-20T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:27.564Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83821650610387d9322db"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:43:29.809Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8385d650610387d9323b3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-30T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:29.142Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83860650610387d9323b8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-11T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:32.370Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83864650610387d9323bd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-12T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:36.784Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8386a650610387d9323c2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-13T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:42.087Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8386d650610387d9323c7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-14T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:45.416Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83870650610387d9323cc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-08T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:48.249Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83872650610387d9323d1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-07T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:50.985Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83875650610387d9323d6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-06T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:53.473Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8387a650610387d9323db"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-21T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:44:58.519Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8387d650610387d9323e0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-23T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:01.344Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83880650610387d9323e5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:04.033Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83882650610387d9323ea"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-18T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:06.425Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83884650610387d9323ef"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-25T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:08.646Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83887650610387d9323f4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-17T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:11.935Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8388a650610387d9323f9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-14T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:14.267Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8388e650610387d9323fe"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-16T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:18.337Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83891650610387d932403"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-12T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:21.815Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83894650610387d932408"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-11T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:24.279Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83897650610387d93240d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-10T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:27.459Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83899650610387d932412"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-09T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:29.911Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8389c650610387d932417"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-07T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:32.618Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8389e650610387d93241c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-05T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:34.853Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838a2650610387d932421"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-03T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:38.617Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838a5650610387d932426"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:41.537Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838a9650610387d93242b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-02T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:45.264Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838ad650610387d932430"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-23T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:49.353Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838af650610387d932435"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-25T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:51.565Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838b2650610387d93243a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-21T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:54.142Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838b4650610387d93243f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-28T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:56.672Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838b6650610387d932444"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-29T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:45:58.934Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838ba650610387d932449"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-19T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:02.165Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838bc650610387d93244e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-18T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:04.852Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838bf650610387d932453"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-17T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:07.039Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838c1650610387d932458"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-15T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:09.269Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838c3650610387d93245d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-13T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:11.773Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838c6650610387d932462"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-12T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:14.330Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838c8650610387d932467"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-10T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:16.620Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838cb650610387d93246c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-08T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:19.028Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838cd650610387d932471"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-05T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:21.939Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838d0650610387d932476"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-02T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:24.605Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838d5650610387d93247b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-27T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:29.568Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838d8650610387d932480"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-29T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:32.472Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838db650610387d932485"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-24T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:35.543Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838de650610387d93248a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-22T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:38.176Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838e0650610387d93248f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-21T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:40.367Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838e3650610387d932494"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-18T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:43.592Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838e6650610387d932499"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-12T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:46.173Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838e9650610387d93249e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-14T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:49.244Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838ed650610387d9324a3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-03T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:53.436Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838f1650610387d9324a8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-02T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:46:57.630Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838f4650610387d9324ad"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-01T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:00.033Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838f7650610387d9324b2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-23T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:03.628Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838fb650610387d9324b7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-28T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:07.065Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838fe650610387d9324bc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-26T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:10.152Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b838fe650610387d9324c1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-26T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:10.429Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83901650610387d9324c6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-17T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:13.403Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83903650610387d9324cb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-15T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:15.864Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83906650610387d9324d0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-13T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:18.521Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83908650610387d9324d5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-11T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:20.791Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8390b650610387d9324da"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-10T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:23.236Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8390d650610387d9324df"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-09T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:25.591Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83910650610387d9324e4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-05T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:28.142Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83912650610387d9324e9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-03T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:30.948Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83917650610387d9324ee"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-25T13:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:35.855Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8391c650610387d9324f3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-16T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:40.479Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8391f650610387d9324f8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-22T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:43.391Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83922650610387d9324fd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-13T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:46.436Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83926650610387d932502"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-11T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:50.217Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83929650610387d932507"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-09T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:53.284Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8392b650610387d93250c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-07T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:55.799Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8392e650610387d932511"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-06T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:47:58.427Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83931650610387d932516"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-04T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:01.220Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83935650610387d93251b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-29T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:05.453Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83938650610387d932520"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-14T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:08.221Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8393b650610387d932525"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-22T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:11.901Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8393e650610387d93252a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-25T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:14.407Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83940650610387d93252f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-08T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:16.794Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83944650610387d932534"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-01T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:20.623Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83947650610387d932539"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-24T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:23.950Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8394c650610387d93253e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-13T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:28.641Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8394f650610387d932543"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-18T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:31.943Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8395d650610387d932548"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-13T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:45.960Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83962650610387d93254d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-03T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:48:50.454Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8396d650610387d932552"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-13T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:01.018Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83971650610387d932557"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-05T17:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:05.695Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83973650610387d93255c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-20T17:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:07.618Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8397c650610387d932561"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-16T17:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:16.709Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83981650610387d932566"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-23T17:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:21.140Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83984650610387d93256b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-01T17:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:49:24.105Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b839f0650610387d9326a6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:12.762Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b839f4650610387d9326ab"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:16.846Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b839f7650610387d9326b0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:19.576Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a09650610387d9326b6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-13T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:37.684Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a0c650610387d9326bb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-15T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:40.066Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a0f650610387d9326c0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-19T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:43.377Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a11650610387d9326c5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-25T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:45.761Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a15650610387d9326ca"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-20T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:49.322Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a19650610387d9326cf"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:53.721Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a1c650610387d9326d4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-17T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:51:56.766Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a21650610387d9326d9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-14T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:01.293Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a24650610387d9326de"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-09T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:04.531Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a27650610387d9326e3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-12T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:07.488Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a2a650610387d9326e8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-14T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:10.217Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a2c650610387d9326ed"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:12.784Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a33650610387d9326f2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-23T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:19.782Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a36650610387d9326f7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-03T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:22.510Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a39650610387d9326fc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-14T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:25.751Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a3e650610387d932701"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-10T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:30.503Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a41650610387d932706"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2022-12-15T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:33.262Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83a44650610387d93270b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2022-12-18T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:52:36.088Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ac1650610387d932867"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:41.540Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ac4650610387d93286c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:44.850Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ac7650610387d932871"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:47.595Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83aca650610387d932876"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:50.849Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ad1650610387d93287b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-20T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:57.234Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ad3650610387d932880"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-06T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:54:59.707Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ad6650610387d932885"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:02.415Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ad6650610387d93288a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:02.783Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ada650610387d93288f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:06.328Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ada650610387d932894"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:06.683Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ada650610387d932899"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:06.861Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83adb650610387d93289e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:07.337Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83adb650610387d9328a3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:07.502Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83adb650610387d9328a8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:07.674Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ae1650610387d9328ad"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:13.966Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ae5650610387d9328b2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-15T08:01:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:17.777Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83aea650610387d9328b7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-09T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:55:22.346Z"
+  },
+  "nastavnik": "lela",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83b27650610387d9328c8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T12:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:56:23.295Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83b2a650610387d9328cd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T12:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:56:26.301Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83b2c650610387d9328d2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T12:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:56:28.787Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83b4d650610387d9328e2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-07T14:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:57:01.267Z"
+  },
+  "nastavnik": "mira",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bc5650610387d932a4a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:01.121Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bc7650610387d932a4f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:03.901Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bca650610387d932a54"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:06.799Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bce650610387d932a59"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:10.547Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bd1650610387d932a5e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-06T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:13.406Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bd3650610387d932a63"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-15T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:15.414Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bd5650610387d932a68"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-23T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:17.267Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bd7650610387d932a6d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-17T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:19.966Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bda650610387d932a72"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-12T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:22.306Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bdc650610387d932a77"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-14T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:24.661Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bde650610387d932a7c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-20T11:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:26.760Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83be2650610387d932a81"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-19T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:30.085Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83be4650610387d932a86"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-15T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:32.312Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83be6650610387d932a8b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-17T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:34.827Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83be9650610387d932a90"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:37.271Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83beb650610387d932a95"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-26T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:39.187Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bee650610387d932a9a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-01T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:42.078Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bf1650610387d932a9f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-16T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:45.850Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bf4650610387d932aa4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-11T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:48.092Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bf7650610387d932aa9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-30T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:51.097Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83bf9650610387d932aae"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-28T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T00:59:53.245Z"
+  },
+  "nastavnik": "mile",
+  "ucenik": "jovana",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83de9650610387d932c37"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:09.519Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83dec650610387d932c3c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:12.911Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83df0650610387d932c41"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:16.476Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83df2650610387d932c46"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:18.906Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83df6650610387d932c4b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-29T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:22.826Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83dfa650610387d932c50"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:26.915Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83dfd650610387d932c55"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-27T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:29.532Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e00650610387d932c5a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-25T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:32.123Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e03650610387d932c5f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-21T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:35.022Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e05650610387d932c64"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-20T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:37.898Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e08650610387d932c69"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-19T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:40.944Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e0b650610387d932c6e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-18T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:43.325Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e0d650610387d932c73"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-09T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:45.879Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e11650610387d932c78"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-27T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:49.269Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e13650610387d932c7d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-13T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:51.716Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e15650610387d932c82"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-10T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:53.906Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e18650610387d932c87"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-17T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:56.065Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e1a650610387d932c8c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-08T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:08:58.973Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e20650610387d932c91"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-23T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:04.155Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e22650610387d932c96"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-13T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:06.340Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e24650610387d932c9b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-25T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:08.717Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e28650610387d932ca0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-21T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:12.217Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e2a650610387d932ca5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:14.622Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e2d650610387d932caa"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-18T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:17.336Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e30650610387d932caf"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-09T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:20.344Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e32650610387d932cb4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-05T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:22.758Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e34650610387d932cb9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-10T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:24.933Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e37650610387d932cbe"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-02T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:27.160Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e39650610387d932cc3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-22T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:29.647Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e3d650610387d932cc8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-28T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:33.532Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e3f650610387d932ccd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:35.552Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e42650610387d932cd2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-19T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:38.232Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e44650610387d932cd7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-17T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:40.603Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e47650610387d932cdc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:43.613Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e49650610387d932ce1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-12T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:45.973Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e4b650610387d932ce6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-08T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:47.980Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e4e650610387d932ceb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-20T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:50.301Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e51650610387d932cf0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-23T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:53.026Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e53650610387d932cf5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-28T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:55.517Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83e56650610387d932cfa"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-20T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:09:58.095Z"
+  },
+  "nastavnik": "pedja",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ea4650610387d932ea2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:11:16.958Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ea7650610387d932ea7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:11:19.629Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83eaa650610387d932eac"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:11:22.305Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83ead650610387d932eb1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T08:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:11:25.358Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f6f650610387d932ec8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-28T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:39.555Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f71650610387d932ecd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-15T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:41.671Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f74650610387d932ed2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-19T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:44.021Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f76650610387d932ed7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-26T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:46.514Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f78650610387d932edc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-10T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:48.424Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f7b650610387d932ee1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-21T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:51.430Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f7d650610387d932ee6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-11T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:53.739Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f82650610387d932eeb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-01T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:14:58.184Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f84650610387d932ef0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-22T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:00.834Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f88650610387d932ef5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-21T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:04.674Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f8a650610387d932efa"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-06T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:06.909Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f8c650610387d932eff"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-11T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:08.829Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f8f650610387d932f04"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-17T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:11.208Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f91650610387d932f09"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-02T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:13.495Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f95650610387d932f0e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-16T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:17.147Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f97650610387d932f13"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-20T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:19.337Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f9b650610387d932f18"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-05T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:23.816Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83f9e650610387d932f1d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-25T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:26.494Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fa1650610387d932f22"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-13T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:29.563Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fa5650610387d932f27"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-29T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:33.044Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fa7650610387d932f2c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-12T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:35.373Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83faa650610387d932f31"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-09T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:38.080Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fad650610387d932f36"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-01T15:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:41.424Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fb0650610387d932f3b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-24T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:44.315Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fb2650610387d932f40"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-11T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:46.725Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fb5650610387d932f45"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-21T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:49.604Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fb8650610387d932f4a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-24T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:52.235Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fba650610387d932f4f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-14T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:54.084Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fbe650610387d932f54"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-28T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:15:58.755Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b83fc0650610387d932f59"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-07T16:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:16:00.802Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "milan",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84019650610387d93311c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:29.973Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8401c650610387d933121"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:32.985Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8401f650610387d933126"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-04T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:35.540Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84022650610387d93312b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:38.249Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84026650610387d933130"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-13T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:42.656Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8402a650610387d933135"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:46.566Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8402d650610387d93313a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-29T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:49.175Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8402f650610387d93313f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:17:51.525Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8403b650610387d93314a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:03.358Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8403d650610387d93314f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-26T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:05.742Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84042650610387d933154"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-30T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:10.509Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84044650610387d933159"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-14T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:12.967Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84047650610387d93315e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-15T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:15.502Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84053650610387d933163"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-10T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:27.849Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84056650610387d933168"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-18T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:30.725Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84059650610387d93316d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-15T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:33.072Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8405b650610387d933172"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-20T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:35.706Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8405e650610387d933177"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-28T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:38.193Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84061650610387d93317c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-21T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:41.610Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84063650610387d933181"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:43.537Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84065650610387d933186"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-08T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:45.898Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84068650610387d93318b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-22T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:48.686Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8406a650610387d933190"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-14T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:50.640Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8406c650610387d933195"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-10T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:52.610Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8406e650610387d93319a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-11T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:54.760Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84071650610387d93319f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:18:57.588Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84075650610387d9331a4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-23T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:01.630Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84077650610387d9331a9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-13T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:03.826Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84079650610387d9331ae"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-08T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:05.898Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8407e650610387d9331b3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-14T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:10.702Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84082650610387d9331b8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:14.075Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84084650610387d9331bd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-23T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:16.465Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84087650610387d9331c2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-17T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:19.021Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84089650610387d9331c7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-07T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:21.442Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8408b650610387d9331cc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-19T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:23.754Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8408d650610387d9331d1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:25.852Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84091650610387d9331d6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-19T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:29.094Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84093650610387d9331db"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-11T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:31.800Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84097650610387d9331e0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-22T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:35.463Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8409d650610387d9331e5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-22T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:41.722Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8409f650610387d9331ea"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-13T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:43.866Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b840a2650610387d9331ef"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-17T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:46.351Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b840a4650610387d9331f4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-09T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:48.584Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b840a6650610387d9331f9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-17T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:50.927Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b840aa650610387d9331fe"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-18T11:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:19:54.733Z"
+  },
+  "nastavnik": "nikola",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8414d650610387d9333fd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:37.956Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84150650610387d933402"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:40.456Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84152650610387d933407"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:42.458Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84154650610387d93340c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:44.935Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84158650610387d933411"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-25T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:48.438Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8415a650610387d933416"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:50.370Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8415c650610387d93341b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:52.621Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8415e650610387d933420"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-12T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:54.761Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84162650610387d933425"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-22T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:22:58.937Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84165650610387d93342a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-05T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:01.141Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84167650610387d93342f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-17T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:03.380Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8416a650610387d933434"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-27T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:06.736Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8416c650610387d933439"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-14T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:08.699Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8416e650610387d93343e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:10.813Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84171650610387d933443"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-14T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:13.772Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84175650610387d933448"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-16T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:17.164Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84177650610387d93344d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:19.175Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84179650610387d933452"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-18T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:21.832Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8417c650610387d933457"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-22T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:24.031Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84181650610387d93345c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-21T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:29.099Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84183650610387d933461"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-17T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:31.648Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84187650610387d933466"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-13T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:35.096Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84189650610387d93346b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-15T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:37.855Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8418a650610387d933470"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-15T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:38.400Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84196650610387d933475"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-10T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:50.126Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84199650610387d93347a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-26T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:53.578Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8419b650610387d93347f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:55.774Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8419d650610387d933484"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-16T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:23:57.902Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841a0650610387d933489"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-22T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:00.948Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841a3650610387d93348e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-11T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:03.235Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841a5650610387d933493"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-25T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:05.560Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841a7650610387d933498"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-09T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:07.455Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841aa650610387d93349d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-17T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:10.171Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841ac650610387d9334a2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-11T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:12.181Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841ae650610387d9334a7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-21T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:14.991Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841b2650610387d9334ac"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-13T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:24:18.875Z"
+  },
+  "nastavnik": "dejan",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841f9650610387d9336c7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:29.602Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841fc650610387d9336cc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:32.445Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b841fe650610387d9336d1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:34.988Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84201650610387d9336d6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-30T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:37.314Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84204650610387d9336db"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:40.777Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84207650610387d9336e0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:43.574Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8420a650610387d9336e5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-26T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:46.731Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8420b650610387d9336ea"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-26T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:47.922Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8420f650610387d9336ef"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-29T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:51.846Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84211650610387d9336f4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-16T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:53.847Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84213650610387d9336f9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:55.954Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84216650610387d9336fe"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:25:58.160Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84218650610387d933703"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-15T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:00.055Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8421a650610387d933708"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-04T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:02.173Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8421c650610387d93370d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-20T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:04.559Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84220650610387d933712"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-18T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:08.015Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84222650610387d933717"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-16T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:10.130Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84224650610387d93371c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-21T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:12.100Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84226650610387d933721"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-06T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:14.227Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84228650610387d933726"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-01T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:16.914Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8422b650610387d93372b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-13T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:19.679Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8422e650610387d933730"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-07T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:22.053Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8422f650610387d933735"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-07T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:23.216Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84232650610387d93373a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-29T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:26.357Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84237650610387d93373f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-08T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:31.201Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84239650610387d933744"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-03T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:33.664Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8423c650610387d933749"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-20T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:36.090Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8423e650610387d93374e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-04T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:38.348Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84241650610387d933753"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-22T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:41.739Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84243650610387d933758"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-11T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:43.730Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84246650610387d93375d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-12T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:46.784Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84248650610387d933762"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-17T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:48.912Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8424a650610387d933767"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-02T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:50.954Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8424d650610387d93376c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-01T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:53.142Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8424f650610387d933771"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-30T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:55.116Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84251650610387d933776"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-17T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:26:57.531Z"
+  },
+  "nastavnik": "sasa",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842cc650610387d93378f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:00.824Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842cf650610387d933794"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:03.960Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842d2650610387d933799"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:06.391Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842d4650610387d93379e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:08.998Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842da650610387d9337a3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:14.556Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842dc650610387d9337a8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-26T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:16.904Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842df650610387d9337ad"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:19.530Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842e1650610387d9337b2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-14T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:21.629Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842e3650610387d9337b7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-11T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:23.827Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842e6650610387d9337bc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-30T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:26.206Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842e8650610387d9337c1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-14T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:28.306Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842ea650610387d9337c6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-10T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:30.668Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842ed650610387d9337cb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:33.270Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842ef650610387d9337d0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-04T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:35.823Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842f2650610387d9337d5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-24T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:38.422Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842f4650610387d9337da"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-08T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:40.158Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842f7650610387d9337df"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-12T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:43.436Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842fb650610387d9337e4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-20T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:47.210Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b842fd650610387d9337e9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-27T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:49.593Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84300650610387d9337ee"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-26T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:52.167Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84301650610387d9337f3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:53.948Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84304650610387d9337f8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-08T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:56.135Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84307650610387d9337fd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-09T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:29:59.095Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84308650610387d933802"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-20T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:00.983Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8430b650610387d933807"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-04T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:03.092Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8430e650610387d93380c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-25T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:06.063Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84310650610387d933811"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-19T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:08.735Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84312650610387d933816"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-15T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:10.650Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84315650610387d93381b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-06T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:13.600Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84317650610387d933820"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-23T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:15.870Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8431a650610387d933825"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-19T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:18.072Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8431d650610387d93382a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-02T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:21.806Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84320650610387d93382f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-11T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:24.077Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84320650610387d933834"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-11T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:24.299Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84322650610387d933839"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-17T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:26.423Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84324650610387d93383e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-14T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:28.338Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84326650610387d933843"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-04T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:30.547Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84329650610387d933848"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-19T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:30:33.607Z"
+  },
+  "nastavnik": "mirko",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b843fc650610387d933ac0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:04.998Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b843ff650610387d933ac5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:07.337Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84401650610387d933aca"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:09.441Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84403650610387d933acf"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:11.403Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84405650610387d933ad4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-06T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:13.819Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84407650610387d933ad9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:15.934Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8440a650610387d933ade"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-29T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:18.458Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8440c650610387d933ae3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-08T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:20.322Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8440f650610387d933ae8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-23T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:23.234Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84411650610387d933aed"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-15T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:25.473Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84413650610387d933af2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-21T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:27.803Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84417650610387d933af7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-05T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:31.389Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84419650610387d933afc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-01T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:33.488Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8441c650610387d933b01"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-21T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:36.247Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8441e650610387d933b06"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-15T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:38.270Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84420650610387d933b0b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-10T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:40.549Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84425650610387d933b10"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-04T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:45.076Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84427650610387d933b15"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-11T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:47.021Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8442c650610387d933b1a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-29T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:52.444Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8442e650610387d933b1f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:54.737Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84432650610387d933b24"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-15T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:34:58.094Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84434650610387d933b29"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-05T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:00.159Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84436650610387d933b2e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-29T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:02.688Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84439650610387d933b33"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-20T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:05.213Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8443b650610387d933b38"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-13T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:07.028Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84440650610387d933b3d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-09T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:12.074Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84442650610387d933b42"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-10T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:14.853Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84445650610387d933b47"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-04T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:17.374Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84447650610387d933b4c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-23T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:19.951Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8444a650610387d933b51"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-10T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:22.459Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8444c650610387d933b56"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-14T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:24.887Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8444f650610387d933b5b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-12T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:27.529Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84451650610387d933b60"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-05-21T09:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:29.945Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84455650610387d933b65"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-24T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:33.710Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84458650610387d933b6a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-19T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:36.121Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8445a650610387d933b6f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-06T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:38.153Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8445d650610387d933b74"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-01T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:41.038Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8445f650610387d933b79"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-18T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:43.553Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84461650610387d933b7e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-14T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:45.896Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84464650610387d933b83"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-20T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:48.884Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84467650610387d933b88"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-25T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:51.650Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8446a650610387d933b8d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-08T10:30:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:35:54.498Z"
+  },
+  "nastavnik": "kaca",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b844f5650610387d933e4e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:13.094Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b844f9650610387d933e53"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:17.572Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84500650610387d933e59"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:24.999Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84503650610387d933e5e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:27.560Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84506650610387d933e63"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-30T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:30.707Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84508650610387d933e68"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:32.825Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8450b650610387d933e6d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:35.206Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8450d650610387d933e72"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-12T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:37.240Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84511650610387d933e77"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-29T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:41.337Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84513650610387d933e7c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-14T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:43.307Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84516650610387d933e81"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-10T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:46.167Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8451b650610387d933e86"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-23T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:51.985Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8451e650610387d933e8b"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-18T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:38:54.012Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84525650610387d933e90"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-07T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:01.921Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84529650610387d933e95"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-27T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:05.705Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8452b650610387d933e9a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:07.842Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8452d650610387d933e9f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-10-09T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:09.946Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84531650610387d933ea4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-23T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:13.041Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84532650610387d933ea9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-23T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:14.561Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84534650610387d933eae"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-13T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:16.663Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84536650610387d933eb3"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-09-03T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:18.923Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8453a650610387d933eb8"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-25T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:22.775Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8453f650610387d933ebd"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-17T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:27.359Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84541650610387d933ec2"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-08-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:29.572Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84544650610387d933ec7"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-28T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:32.313Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84546650610387d933ecc"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-14T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:34.540Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84548650610387d933ed1"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-11T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:36.422Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8454a650610387d933ed6"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-07-02T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:38.917Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8454e650610387d933edb"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-24T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:42.134Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84550650610387d933ee0"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-06-15T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:44.375Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84556650610387d933ee5"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-14T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:50.349Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84558650610387d933eea"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-08T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:52.756Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8455b650610387d933eef"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-04-10T09:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:55.173Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8455d650610387d933ef4"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-24T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:39:57.750Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84560650610387d933ef9"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-16T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:40:00.425Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84562650610387d933efe"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-03-05T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:40:02.802Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84565650610387d933f03"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-26T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:40:05.492Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84567650610387d933f08"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-02-08T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:40:07.574Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8456a650610387d933f0d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-01-21T10:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:40:10.231Z"
+  },
+  "nastavnik": "nadja",
+  "ucenik": "jelena",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845f0650610387d934215"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-02T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:24.936Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845f3650610387d93421a"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-03T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:27.302Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845f5650610387d93421f"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-02-01T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:29.664Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845f7650610387d934224"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-31T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:31.800Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845fa650610387d934229"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-30T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:34.316Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845fd650610387d93422e"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-28T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:37.001Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b845ff650610387d934233"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-27T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:39.241Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84601650610387d934238"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-14T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:41.855Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84603650610387d93423d"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2024-01-11T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:43.902Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b84607650610387d934242"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-30T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:47.762Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8460a650610387d934247"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-12-14T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:50.572Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8460e650610387d93424c"
+  },
+  "naziv": "Potvdjen cas",
+  "datumCasa": {
+    "$date": "2023-11-17T16:00:00.000Z"
+  },
+  "datumObavestenja": {
+    "$date": "2024-01-30T01:42:54.282Z"
+  },
+  "nastavnik": "ranko",
+  "ucenik": "zeljko",
+  "obrazlozenje": "Cas koji ste zakazali je potvrdjen.",
+  "novo": true,
+  "__v": 0
+}]
