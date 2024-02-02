@@ -1,0 +1,67 @@
+<div class="container">
+  <app-nastavnik-navigacija [nastavnik]="nastavnik"></app-nastavnik-navigacija>
+  <br>
+  <h3>Profil</h3>
+  <br>
+  <div>
+    <div class="form-group">
+      <label for="ime" class="col-sm-3 col-form-label">Ime:</label>
+      <input type="text" class="form-control" id="ime" [(ngModel)]="nastavnik.ime">
+    </div>
+    <div class="form-group">
+      <label for="prezime" class="col-sm-3 col-form-label">Prezime:</label>
+      <input type="text" class="form-control" id="prezime" [(ngModel)]="nastavnik.prezime">
+    </div>
+    <div class="form-group">
+      <label for="adresa" class="col-sm-3 col-form-label">Adresa:</label>
+      <input type="text" class="form-control col-sm-9" id="adresa" [(ngModel)]="nastavnik.adresa">
+    </div>
+    <div class="form-group">
+      <label for="email" class="col-sm-3 col-form-label">E-mail:</label>
+      <input type="text" class="form-control col-sm-9" id="email" [(ngModel)]="nastavnik.email">
+    </div>
+    <div class="form-group">
+      <label for="telefon" class="col-sm-3 col-form-label">Telefon:</label>
+      <input type="text" class="form-control col-sm-9" id="telefon" [(ngModel)]="nastavnik.telefon">
+    </div>
+
+    <label for="predmeti">Predmeti:</label>
+    <div class="form-group">
+      <div class="btn group" *ngFor="let predmet of odobreniPredmeti; let i = index;">
+        <input type="checkbox" class="btn-check" id="{{predmet._id}}" value="{{predmet.ime}}" [(ngModel)]="predmetiSelektovani[i]">
+        <label class="btn btn-outline-primary" for="{{predmet._id}}">{{predmet.ime}}</label>
+      </div>
+    </div><br>
+
+    <label for="uzrast">Uzrast:</label>
+    <div class="form-group" id="uzrast">
+      <div class="btn group">
+        <input type="checkbox" class="btn-check" value="osnovna skola 1-4. razred" id="os1-4" [(ngModel)]="uzrastSelektovani[0]">
+        <label class="btn btn-outline-primary" for="os1-4">osnovna skola 1-4. razred</label>
+        <input type="checkbox" class="btn-check" value="osnovna skola 5-8. razred" id="os5-8" [(ngModel)]="uzrastSelektovani[1]">
+        <label class="btn btn-outline-primary" for="os5-8">osnovna skola 5-8. razred</label>
+        <input type="checkbox" class="btn-check" value="srednja skola" id="srednjaSkola" [(ngModel)]="uzrastSelektovani[2]">
+        <label class="btn btn-outline-primary" for="srednjaSkola">srednja skola</label>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="slika" class="col-sm-3 col-form-label">Slika:</label>
+      <div class="col-sm-9">
+        <div *ngIf="nastavnik.slika">
+          <img [src]="nastavnik.slika" alt="Uploaded Image" [ngStyle]="{ 'width.px': 150, 'height.px': 150 }">
+        </div>
+        <input type="file" id="slika" accept="image/jpeg, image/png" (change)="handleFileUpload($event)">
+      </div>
+    </div><br>
+
+    <div class="form-group">
+      <div class="col-sm-12">
+        <button class="btn btn-success btn-lg" (click)="azuriraj()">Izmeni podatke</button>
+      </div>
+    </div>
+  </div>
+  <br>
+  <p *ngIf="poruka!=''" class="alert alert-success">{{poruka}}</p>
+
+</div>

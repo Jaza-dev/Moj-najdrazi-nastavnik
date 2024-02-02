@@ -1,0 +1,64 @@
+<div class="container">
+  <app-admin-navigacija [admin]="admin"></app-admin-navigacija>
+  <br>
+  <div *ngIf="poruka!=''">
+    <p class="alert alert-info">{{poruka}}</p>
+  </div>
+  <table *ngFor="let nastavnik of sviNastavnici" class="table table-striped">
+    <tbody>
+      <tr>
+        <td><b>Korisnicko ime:</b></td>
+        <td>{{nastavnik.korisnickoIme}}</td>
+      </tr>
+      <tr>
+        <td><b>Ime:</b></td>
+        <td><input type="text" class="form-control" value="{{nastavnik.ime}}" [(ngModel)]="nastavnik.ime"></td>
+      </tr>
+      <tr>
+        <td><b>Prezime:</b></td>
+        <td><input type="text" class="form-control" value="{{nastavnik.prezime}}" [(ngModel)]="nastavnik.prezime"></td>
+      </tr>
+      <tr>
+        <td><b>Pol:</b></td>
+        <td>{{nastavnik.pol}}</td>
+      </tr>
+      <tr>
+        <td><b>Adresa:</b></td>
+        <td><input type="text" class="form-control" value="{{nastavnik.adresa}}" [(ngModel)]="nastavnik.adresa"></td>
+      </tr>
+      <tr>
+        <td><b>Telefon:</b></td>
+        <td><input type="text" class="form-control" value="{{nastavnik.telefon}}" [(ngModel)]="nastavnik.telefon"></td>
+      </tr>
+      <tr>
+        <td><b>E-mail:</b></td>
+        <td><input type="text" class="form-control" value="{{nastavnik.email}}" [(ngModel)]="nastavnik.email"></td>
+      </tr>
+      <tr>
+        <td><b>CV:</b></td>
+        <td><button class="btn btn-light" (click)="downloadPdf(nastavnik.cv)"><i class="bi bi-download"></i> Download</button></td>
+      </tr>
+      <tr>
+        <td><b>Predmeti:</b></td>
+        <td>{{nastavnik.predmeti}}</td>
+      </tr>
+      <tr>
+        <td><b>Uzrast:</b></td>
+        <td>{{nastavnik.uzrast}}</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <button class="btn btn-success" (click)="azurirajNastavnika(nastavnik.korisnickoIme,nastavnik.ime, nastavnik.prezime,nastavnik.adresa, nastavnik.telefon, nastavnik.email)">Azuriraj podatke</button>&nbsp;&nbsp;
+          <span *ngIf="nastavnik.aktivan===false">
+            <button class="btn btn-danger" disabled (click)="deaktivirajNastavnika(nastavnik.korisnickoIme)">Deaktiviraj</button>&nbsp;
+            <span style="color:red">Nastavnik je deaktiviran ili ceka odobrenje</span>
+          </span>
+          <span *ngIf="nastavnik.aktivan===true">
+            <button class="btn btn-danger" (click)="deaktivirajNastavnika(nastavnik.korisnickoIme)">Deaktiviraj</button>
+          </span>
+        </td>
+      </tr>
+    </tbody><br>
+  </table>
+</div>
+

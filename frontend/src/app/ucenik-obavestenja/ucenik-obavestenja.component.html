@@ -1,0 +1,20 @@
+<div class="container">
+  <app-ucenik-navigacija [ucenik]="ucenik"></app-ucenik-navigacija>
+  <br>
+  <h3>Obavestenja</h3>
+  <p *ngIf="poruka!=''" class="alert alert-success">{{poruka}}</p>
+  <ul *ngFor="let obavestenje of svaObavestenja" class="list-group">
+    <li class="list-group-item">
+      <span *ngIf="obavestenje.novo" style="color:red"><b>NOVO</b><br></span>
+      <span class="h3">{{obavestenje.naziv}}</span><br><br>
+      <ul class="list-group">
+        <li class="list-group-item"><b>Datum casa:</b> {{formatirajDatum(obavestenje.datumCasa)}}</li>
+        <li class="list-group-item"><b>Nastavnik:</b> {{obavestenje.nastavnik}}</li>
+        <li class="list-group-item"><b>Ucenik:</b> {{obavestenje.ucenik}}</li>
+        <li class="list-group-item"><b>Obrazlozenje:</b> {{obavestenje.obrazlozenje}}</li>
+
+        <li class="list-group-item"><b>Datum obavestenja:</b> {{formatirajDatum(obavestenje.datumObavestenja)}}</li>
+      </ul>
+    </li><br>
+  </ul>
+</div>

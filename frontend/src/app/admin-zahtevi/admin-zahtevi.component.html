@@ -1,0 +1,55 @@
+<div class="container">
+  <app-admin-navigacija [admin]="admin"></app-admin-navigacija>
+  <br>
+
+  <table *ngFor="let nastavnik of zahtevi" class="table table-striped">
+    <tbody>
+      <tr>
+        <td><b>Korisnicko ime:</b></td>
+        <td>{{nastavnik.korisnickoIme}}</td>
+      </tr>
+      <tr>
+        <td><b>Ime:</b></td>
+        <td>{{nastavnik.ime}}</td>
+      </tr>
+      <tr>
+        <td><b>Prezime:</b></td>
+        <td>{{nastavnik.prezime}}</td>
+      </tr>
+      <tr>
+        <td><b>Pol:</b></td>
+        <td>{{nastavnik.pol}}</td>
+      </tr>
+      <tr>
+        <td><b>Adresa:</b></td>
+        <td>{{nastavnik.adresa}}</td>
+      </tr>
+      <tr>
+        <td><b>Telefon:</b></td>
+        <td>{{nastavnik.telefon}}</td>
+      </tr>
+      <tr>
+        <td><b>E-mail:</b></td>
+        <td>{{nastavnik.email}}</td>
+      </tr>
+      <tr>
+        <td><b>CV:</b></td>
+        <td><button class="btn btn-light" (click)="downloadPdf(nastavnik.cv)"><i class="bi bi-download"></i> Download</button></td>
+      </tr>
+      <tr>
+        <td><b>Predmeti:</b></td>
+        <td>{{nastavnik.predmeti}}</td>
+      </tr>
+      <tr>
+        <td><b>Uzrast:</b></td>
+        <td>{{nastavnik.uzrast}}</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <button class="btn btn-success" (click)="prihvatiZahtev(nastavnik.korisnickoIme)">Prihvati</button>
+          &nbsp;&nbsp;
+          <button class="btn btn-danger" (click)="odbijZahtev(nastavnik.korisnickoIme)">Odbij</button></td>
+      </tr>
+    </tbody><br>
+  </table>
+</div>

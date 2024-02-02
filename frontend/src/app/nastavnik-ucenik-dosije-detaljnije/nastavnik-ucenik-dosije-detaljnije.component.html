@@ -1,0 +1,31 @@
+<div class="container">
+  <app-nastavnik-navigacija [nastavnik]="nastavnik"></app-nastavnik-navigacija>
+  <br>
+  <div *ngIf="poruka!=''">
+    <p class="alert alert-info">{{poruka}}</p><br><br>
+  </div>
+  <br>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Predmet</th>
+        <th>Datum</th>
+        <th>Vreme</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cas of ucenik.casovi">
+        <td>{{cas.predmet}}</td>
+        <td>{{formatirajDatum(cas.datum.slice(0,10))}}</td>
+        <td>{{cas.datum.slice(11,16)}}</td>
+        <td *ngIf="cas.komentarNastavnik==='' && cas.ocenaNastavnik===0">
+          <button type="button" class="btn btn-sm btn-danger" (click)="modal.otvoriModal()">Oceni ucenika</button>
+          <app-modal-unos-ocene-i-komentara #modal (modalClosed)="ostaviOcenuIKomentar($event, cas._id)"></app-modal-unos-ocene-i-komentara>
+        </td>
+        <td *ngIf="cas.komentarNastavnik!=='' || cas.ocenaNastavnik!==0"></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>

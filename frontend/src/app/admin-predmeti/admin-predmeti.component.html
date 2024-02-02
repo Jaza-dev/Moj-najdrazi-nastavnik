@@ -1,0 +1,23 @@
+<div class="container">
+  <app-admin-navigacija [admin]="admin"></app-admin-navigacija>
+  <br>
+
+  <input type="text" class="form-control" [(ngModel)]="noviPredmet" placeholder="Ime predmeta"><br>
+  <button class="btn btn-success" (click)="kreirajPredmet()">Kreiraj</button>
+  <br><br>
+  <div *ngIf="poruka!=''">
+    <p class="alert alert-info">{{poruka}}</p>
+  </div>
+
+  <ul *ngFor="let predmet of sviNeodobreniZahtevi" class="list-group">
+    <li class="list-group-item">
+    <li class="list-group-item"><b>Naziv:</b> {{predmet.ime}}</li>
+    <li class="list-group-item d-flex justify-content-end">
+      <button class="mr-2" class="btn btn-success" (click)="odobriPredmet(predmet._id)">Odobri</button>&nbsp;
+      <button class="btn btn-danger" (click)="odbijPredmet(predmet._id)">Odbij</button>
+    </li><br>
+  </ul>
+
+
+</div>
+

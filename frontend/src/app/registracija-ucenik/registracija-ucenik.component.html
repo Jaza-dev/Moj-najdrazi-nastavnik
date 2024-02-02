@@ -1,0 +1,95 @@
+<div class="container"><br>
+  <h1 class="text-center">Registracija Ucenika</h1><br>
+  <div>
+    <div class="form-group">
+      <label for="korisnickoIme" class="col-sm-3 col-form-label">Korisnicko ime:</label>
+      <input type="text" class="form-control col-sm-9" id="korisnickoIme" [(ngModel)]="ucenik.korisnickoIme" required>
+    </div>
+    <div class="form-group">
+      <label for="lozinka" class="col-sm-3 col-form-label">Lozinka:</label>
+        <input type="password" class="form-control col-sm-9" id="lozinka" [(ngModel)]="ucenik.lozinka">
+    </div>
+    <div class="form-group">
+      <label for="pitanje" class="col-sm-3 col-form-label">Bezbednosno pitanje:</label>
+        <input type="text" class="form-control col-sm-9" id="pitanje" [(ngModel)]="ucenik.pitanje">
+    </div>
+    <div class="form-group">
+      <label for="odgovor" class="col-sm-3 col-form-label">Odgovor:</label>
+        <input type="text" class="form-control col-sm-9" id="odgovor" [(ngModel)]="ucenik.odgovor">
+    </div>
+    <div class="form-group">
+      <label for="ime" class="col-sm-3 col-form-label">Ime:</label>
+      <input type="text" class="form-control col-sm-9" id="ime" [(ngModel)]="ucenik.ime">
+    </div>
+    <div class="form-group">
+      <label for="prezime" class="col-sm-3 col-form-label">Prezime:</label>
+      <input type="text" class="form-control col-sm-9" id="prezime" [(ngModel)]="ucenik.prezime">
+    </div>
+    <div class="form-group">
+      <label for="pol" class="col-sm-3 col-form-label">Pol:</label>
+      <div class="col-sm-9">
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="muski" name="pol" value="muski" [(ngModel)]="ucenik.pol">
+          <label for="muski" class="form-check-label">Muski</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="zenski" name="pol" value="zenski" [(ngModel)]="ucenik.pol">
+          <label for="zenski" class="form-check-label">Zenski</label>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="adresa" class="col-sm-3 col-form-label">Adresa:</label>
+      <input type="text" class="form-control col-sm-9" id="adresa" [(ngModel)]="ucenik.adresa">
+    </div>
+    <div class="form-group">
+      <label for="telefon" class="col-sm-3 col-form-label">Telefon:</label>
+      <input type="text" class="form-control col-sm-9" id="telefon" [(ngModel)]="ucenik.telefon">
+    </div>
+    <div class="form-group">
+      <label for="email" class="col-sm-3 col-form-label">E-mail:</label>
+      <input type="text" class="form-control col-sm-9" id="email" [(ngModel)]="ucenik.email">
+    </div>
+    <div class="form-group">
+      <label for="slika" class="col-sm-3 col-form-label">Slika:</label>
+      <div class="col-sm-9">
+        <div *ngIf="ucenik.slika">
+          <img [src]="ucenik.slika" alt="Uploaded Image" [ngStyle]="{ 'width.px': 150, 'height.px': 150 }">
+        </div>
+        <input type="file" id="slika" accept="image/jpeg, image/png" (change)="handleFileUpload($event)">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="tipSkole" class="col-sm-3 col-form-label">Tip skole:</label>
+      <select class="form-control col-sm-9" id="tipSkole" [(ngModel)]="ucenik.tipSkole">
+        <option value="osnovna">Osnovna</option>
+        <option value="srednja-gimnazija">Srednja gimnazija</option>
+        <option value="srednja-strucna">Srednja strucna</option>
+        <option value="srednja-umetnicka">Srednja umetnicka</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="razred" class="col-sm-3 col-form-label">Razred:</label>
+      <select class="form-control col-sm-9" id="razred" [(ngModel)]="ucenik.razred">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5" *ngIf="ucenik.tipSkole==='osnovna'">5</option>
+        <option value="6" *ngIf="ucenik.tipSkole==='osnovna'">6</option>
+        <option value="7" *ngIf="ucenik.tipSkole==='osnovna'">7</option>
+        <option value="8" *ngIf="ucenik.tipSkole==='osnovna'">8</option>
+      </select>
+    </div><br>
+    <div class="form-group">
+      <div class="col-sm-12">
+        <button class="btn btn-primary" (click)="registacija()">Registruj se</button>
+      </div>
+    </div>
+  </div><br>
+  <p *ngIf="poruka!=''" class="alert alert-danger">{{poruka}}</p>
+  <div>
+    <a routerLink="">Prijava</a><br>
+    <a routerLink="../registracija-nastavnik">Registruj se kao nastavnik</a>
+  </div>
+</div>

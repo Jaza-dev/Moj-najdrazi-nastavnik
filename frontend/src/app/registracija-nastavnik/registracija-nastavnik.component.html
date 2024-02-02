@@ -1,0 +1,126 @@
+
+<div class="container"><br>
+  <h1 class="text-center">Registracija Nastavnik</h1><br>
+  <div *ngIf="sledeciKorak === false">
+    <div>
+      <div  class="form-group">
+        <label for="korisnickoIme" class="col-sm-3 col-form-label">Korisnicko ime:</label>
+        <input type="text" class="form-control" id="korisnickoIme" [(ngModel)]="nastavnik.korisnickoIme">
+      </div>
+      <div class="form-group">
+        <label for="lozinka" class="col-sm-3 col-form-label">Lozinka:</label>
+        <input type="password" class="form-control" id="lozinka" [(ngModel)]="nastavnik.lozinka">
+      </div>
+      <div class="form-group">
+        <label for="bezbednosnoPitanje" class="col-sm-3 col-form-label">Bezbednosno pitanje:</label>
+        <input type="text" class="form-control" id="bezbednosnoPitanje" [(ngModel)]="nastavnik.pitanje">
+      </div>
+      <div class="form-group">
+        <label for="odgovor" class="col-sm-3 col-form-label">Odgovor:</label>
+        <input type="text" class="form-control" id="odgovor" [(ngModel)]="nastavnik.odgovor">
+      </div>
+      <div class="form-group">
+        <label for="ime" class="col-sm-3 col-form-label">Ime:</label>
+        <input type="text" class="form-control" id="ime" [(ngModel)]="nastavnik.ime">
+      </div>
+      <div class="form-group">
+        <label for="prezime" class="col-sm-3 col-form-label">Prezime:</label>
+        <input type="text" class="form-control" id="prezime" [(ngModel)]="nastavnik.prezime">
+      </div>
+      <div class="form-group">
+        <label for="pol" class="col-sm-3 col-form-label">Pol:</label>
+      <div class="col-sm-9">
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="muski" name="pol" value="muski" [(ngModel)]="nastavnik.pol">
+          <label for="muski" class="form-check-label">Muski</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="zenski" name="pol" value="zenski" [(ngModel)]="nastavnik.pol">
+          <label for="zenski" class="form-check-label">Zenski</label>
+        </div>
+      </div>
+      </div>
+      <div class="form-group">
+        <label for="adresa" class="col-sm-3 col-form-label">Adresa:</label>
+        <input type="text" class="form-control col-sm-9" id="adresa" [(ngModel)]="nastavnik.adresa">
+      </div>
+      <div class="form-group">
+        <label for="telefon" class="col-sm-3 col-form-label">Telefon:</label>
+        <input type="text" class="form-control col-sm-9" id="telefon" [(ngModel)]="nastavnik.telefon">
+      </div>
+      <div class="form-group">
+        <label for="email" class="col-sm-3 col-form-label">E-mail:</label>
+        <input type="text" class="form-control col-sm-9" id="email" [(ngModel)]="nastavnik.email">
+      </div>
+      <div class="form-group">
+        <label for="slika" class="col-sm-3 col-form-label">Slika:</label>
+        <div class="col-sm-9">
+          <div *ngIf="nastavnik.slika">
+            <img [src]="nastavnik.slika" alt="Uploaded Image" [ngStyle]="{ 'width.px': 150, 'height.px': 150 }">
+          </div>
+          <input type="file" id="slika" accept="image/jpeg, image/png" (change)="handleFileUpload($event,true)">
+        </div>
+      </div><br>
+      <div class="form-group">
+        <div class="col-sm-12">
+          <button class="btn btn-primary" (click)="dalje()">Dalje</button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <a href="" routerLink="">Prijava</a><br>
+      <a href="" routerLink="../registracija-ucenik">Registruj se kao ucenik</a>
+    </div>
+  </div>
+
+
+  <div *ngIf="sledeciKorak===true">
+    <div>
+      <div class="form-group">
+        <label for="cv" class="col-sm-3 col-form-label">CV:</label>
+        <div class="col-sm-9">
+          <input type="file" id="cv" accept=".pdf" max="3000" size="3000000" (change)="handleFileUpload($event, false)">
+        </div>
+      </div><br>
+      <div class="form-group">
+        <label class="col-sm-3 col-form-label">Koje predmete zelite da poducavate?</label>
+      </div>
+      <div class="form-group">
+        <div class="btn group" *ngFor="let predmet of odobreniPredmeti; let i = index;">
+          <input type="checkbox" class="btn-check" id="{{predmet._id}}" value="{{predmet.ime}}" [(ngModel)]="predmetiSelektovani[i]">
+          <label class="btn btn-outline-primary" for="{{predmet._id}}">{{predmet.ime}}</label>
+        </div>
+        <div class="btn group">
+          <input type="text" class="form-control" id="nestoDrugo" placeholder="Nesto drugo" [(ngModel)]="nestoDrugo">
+        </div>
+      </div><br>
+      <div class="form-group">
+        <label>Kom uzrastu zelite da predajete?</label>
+      </div>
+      <div class="form-group">
+        <div class="btn group">
+          <input type="checkbox" class="btn-check" value="osnovna skola 1-4. razred" id="os1-4" [(ngModel)]="uzrastSelektovani[0]">
+          <label class="btn btn-outline-primary" for="os1-4">osnovna skola 1-4. razred</label>
+          <input type="checkbox" class="btn-check" value="osnovna skola 5-8. razred" id="os5-8" [(ngModel)]="uzrastSelektovani[1]">
+          <label class="btn btn-outline-primary" for="os5-8">osnovna skola 5-8. razred</label>
+          <input type="checkbox" class="btn-check" value="srednja skola" id="srednjaSkola" [(ngModel)]="uzrastSelektovani[2]">
+          <label class="btn btn-outline-primary" for="srednjaSkola">srednja skola</label>
+        </div>
+      </div><br>
+      <div class="form-group">
+        <label for="pitanjeCuo" class="col-sm-3 col-form-label">Gde ste culi za nas sajt?</label>
+        <input type="text" class="form-control" id="pitanjeCuo" [(ngModel)]="nastavnik.odakleCuo">
+      </div><br>
+
+      <p *ngIf="poruka!=''" class="alert alert-danger">{{poruka}}</p>
+      <div class="form-group">
+        <button class="btn btn-danger" (click)="dalje()">Nazad</button>
+      </div><br>
+      <div class="form-group">
+        <button class="btn btn-primary" (click)="registracija()">Registruj se</button>
+      </div>
+    </div>
+  </div>
+
+
+</div>

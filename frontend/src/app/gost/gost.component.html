@@ -1,0 +1,90 @@
+<div class="container"><br>
+  <h1 class="text-center display-5"><b>Moj najdrazi nastavnik</b></h1><br>
+  <h5 class="text-center lead">Prijavljeni ste kao gost</h5><br>
+  <div class="d-flex justify-content-end">
+    <a routerLink="" class="btn btn-danger">Povratak na prijavu</a>
+  </div>
+  <h3>Opste informacije</h3>
+  <table class="table">
+    <tbody>
+      <tr>
+        <td>Broj aktivnih ucenika je <b>{{brojUcenika}}</b>.</td>
+      </tr>
+      <tr>
+        <td>Broj aktivnih nastavnika je <b>{{brojAktivnihNastavnika}}</b>.</td>
+      </tr>
+      <tr>
+        <td>Broj odrzanih casova u poslednjih nedelju dana je <b>{{brojOdrzanihCasovaNedelja}}.</b></td>
+      </tr>
+      <tr>
+        <td>Broj odrzanih casova u poslednjih mesec dana je <b>{{brojOdrzanihCasovaMesec}}.</b></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>Pretraga</h3>
+  <div class="row">
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Ime" [(ngModel)]="imePretraga">
+    </div>
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Prezime" [(ngModel)]="prezimePretraga">
+    </div>
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Predmet" [(ngModel)]="predmetPretraga">
+    </div>
+    <div class="col-md-3">
+      <button class="btn btn-success" (click)="pretrazi()"><i class="bi bi-search"></i></button>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12" *ngIf="nastavniciPretraga.length > 0">
+      <div class="mt-3" *ngFor="let nastavnik of nastavniciPretraga">
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><b>{{nastavnik.ime}} {{nastavnik.prezime}}</b></td>
+            </tr>
+            <tr>
+              <td>Predmeti koje predaje: {{nastavnik.predmeti}}</td>
+            </tr>
+            <tr>
+              <td>Uzrast kom predaje: {{nastavnik.uzrast}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div *ngIf="nastavniciPretraga.length === 0 && pretraga === true">
+      <br><p class="alert alert-info">Ne postoji nastavnik sa datim parametrima.</p>
+    </div>
+  </div>
+
+  <br>
+
+  <h3>Dostupni predmeti</h3>
+
+  <div *ngIf="predmeti.length>0">
+    <button (click)="sortirajPoImenu()" class="btn btn-secondary">Sortiraj po imenu <i class="bi bi-sort-alpha-down"></i></button>&nbsp;
+    <button (click)="sortirajPoPrezimenu()" class="btn btn-secondary">Sortiraj po prezimenu <i class="bi bi-sort-alpha-down"></i></button>&nbsp;
+    <button (click)="sortirajPoPredmetu()" class="btn btn-secondary">Sortiraj po predmetu <i class="bi bi-sort-alpha-down"></i></button><br><br>
+    <ul class="list-group">
+      <li class="list-group-item" *ngFor="let predmet of predmeti">
+        <h5>{{predmet.predmet}}</h5>
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let nastavnik of predmet.nastavnici">
+            {{nastavnik.ime}} {{nastavnik.prezime}}
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div *ngIf="predmeti.length===0">
+    <br><p class="alert alert-info">Ne postoje registrovani nastavnici.</p>
+  </div>
+  <br>
+</div>
+
+
+

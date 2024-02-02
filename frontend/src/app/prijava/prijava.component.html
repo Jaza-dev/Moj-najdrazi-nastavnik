@@ -1,0 +1,30 @@
+<div class="container"><br>
+  <h1 class="text-center">Prijava</h1><br>
+  <div>
+    <div class="form-group">
+      <label for="korisnickoIme" class="col-sm-3 col-form-label">Korisnicko ime:</label>
+      <input type="text" class="form-control" id="korisnickoIme" [(ngModel)]="korisnickoIme">
+    </div><br>
+    <div class="form-group">
+      <label for="lozinka" class="col-sm-3 col-form-label">Lozinka:</label>
+      <input type="password" class="form-control" id="lozinka" [(ngModel)]="lozinka">
+    </div><br>
+    <div class="form-group">
+      <label for="tip" class="col-sm-3 col-form-label">Tip korisnika:</label>
+      <select class="form-control" id="tip" [(ngModel)]="tip">
+        <option value="ucenik">Ucenik</option>
+        <option value="nastavnik">Nastavnik</option>
+      </select>
+    </div><br>
+    <button class="btn btn-primary" (click)="prijava()">Prijavi se</button>
+  </div><br>
+
+  <div *ngIf="poruka!=''">
+    <p class="alert alert-danger">{{poruka}}</p>
+  </div>
+
+  <a routerLink="gost">Nastavi kao gost</a><br>
+  <a routerLink="promena-lozinke">Promena lozinke</a><br>
+  <a routerLink="registracija-ucenik">Registruj se kao ucenik</a><br>
+  <a routerLink="registracija-nastavnik">Registruj se kao nastavnik</a>
+</div>

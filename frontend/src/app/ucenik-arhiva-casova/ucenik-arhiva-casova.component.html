@@ -1,0 +1,83 @@
+<div class="container">
+  <app-ucenik-navigacija [ucenik]="ucenik"></app-ucenik-navigacija>
+  <br>
+<div *ngIf="prikaz==true">
+    <button class="btn btn-success" (click)="promeniPrikaz()">Prikazi predostojece casove</button><br><br>
+    <div *ngIf="poruka!=''">
+      <p class="alert alert-info">{{poruka}}</p><br><br>
+    </div>
+
+    <h3>Odrzani casovi</h3><br>
+
+  <div *ngIf="odrzaniCasovi.length>0">
+    <table class="table table-striped" *ngFor="let cas of odrzaniCasovi">
+      <tbody>
+          <tr>
+            <td><b>Datum i vreme pocetka</b></td>
+            <td>{{formatirajDatum(cas.datum)}}</td>
+          </tr>
+          <tr>
+            <td><b>Datum i vreme kraja</b></td>
+            <td>{{formatirajDatumKraja(cas.datum, cas.trajanje)}}</td>
+          </tr>
+          <tr class="table-secondary">
+            <td><b>Nastavnik</b></td>
+            <td>{{cas.nastavnik}}</td>
+          </tr>
+          <tr>
+            <td><b>Predmet</b></td>
+            <td>{{cas.predmet}}</td>
+          </tr>
+          <tr class="table-secondary">
+            <td><b>Komentar nastavnika</b></td>
+            <td>{{cas.komentarNastavnik}}</td>
+          </tr>
+          <tr *ngIf="cas.komentarUcenik==='' && cas.ocenaUcenik===0">
+            <button type="button" class="btn btn-danger" (click)="modal.otvoriModal()">Oceni cas</button>
+            <app-modal-unos-ocene-i-komentara #modal (modalClosed)="ostaviOcenuIKomentar($event, cas._id)"></app-modal-unos-ocene-i-komentara>
+          </tr>
+      </tbody><br><br>
+    </table>
+  </div>
+  <div *ngIf="odrzaniCasovi.length === 0">
+    <p class="alert alert-info">Ne postoje odrzani casovi.</p>
+  </div>
+</div>
+
+<div *ngIf="prikaz==false">
+    <button class="btn btn-success" (click)="promeniPrikaz()">Prikazi odrzane casove</button>
+    <br><br>
+    <h3>Predostojeci casovi</h3><br>
+
+    <div *ngIf="predstojeciCasovi.length>0">
+      <table class="table table-striped" *ngFor="let cas of predstojeciCasovi">
+        <tbody>
+          <tr>
+            <td><b>Datum i vreme pocetka</b></td>
+            <td>{{formatirajDatum(cas.datum)}}</td>
+          </tr>
+          <tr>
+            <td><b>Datum i vreme kraja</b></td>
+            <td>{{formatirajDatumKraja(cas.datum, cas.trajanje)}}</td>
+          </tr>
+          <tr class="table-secondary">
+            <td><b>Nastavnik</b></td>
+            <td>{{cas.nastavnik}}</td>
+          </tr>
+          <tr>
+            <td><b>Predmet</b></td>
+            <td>{{cas.predmet}}</td>
+          </tr>
+          <tr class="table-secondary">
+            <td><b>Komentar ucenika</b></td>
+            <td>{{cas.opis}}</td>
+          </tr>
+        </tbody><br><br>
+      </table>
+    </div>
+    <div *ngIf="predstojeciCasovi.length===0">
+      <p class="alert alert-info">Ne postoje predstojeci casovi.</p>
+    </div>
+</div>
+
+</div>

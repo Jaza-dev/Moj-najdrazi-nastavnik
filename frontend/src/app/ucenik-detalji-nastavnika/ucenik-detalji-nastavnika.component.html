@@ -1,0 +1,113 @@
+<div class="container">
+  <app-ucenik-navigacija [ucenik]="ucenik"></app-ucenik-navigacija>
+  <br>
+  <table class="table table-bordered table-hover">
+    <tbody>
+      <tr>
+        <th scope="row">Ime</th>
+        <td>{{ nastavnik.ime }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Prezime</th>
+        <td>{{ nastavnik.prezime }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Slika</th>
+        <td>
+          <div *ngIf="ucenik.slika">
+            <img [src]="nastavnik.slika" alt="Uploaded Image" [ngStyle]="{ 'width.px': 150, 'height.px': 150 }">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th scope="row">E-mail</th>
+        <td>{{ nastavnik.email }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Telefon</th>
+        <td>{{ nastavnik.telefon }}</td>
+      </tr>
+      <tr>
+        <th scope="row">Predmeti</th>
+        <td>{{ nastavnik.predmeti }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+
+  <div id="carouselExample" class="carousel slide" *ngIf="sviOdrzaniCasovi.length>0">
+    <div class="carousel-inner"><br>
+      <div class="carousel-item active text-center">
+        <p><app-prikaz-ocene [ocena]="sviOdrzaniCasovi[0].ocenaUcenik"></app-prikaz-ocene></p>
+        <p>{{sviOdrzaniCasovi[0].komentarUcenik}}</p>
+      </div>
+      <div class="carousel-item text-center" *ngFor="let cas of sviOdrzaniCasovi.slice(1)">
+        <p><app-prikaz-ocene [ocena]="cas.ocenaUcenik"></app-prikaz-ocene></p>
+        <p>{{cas.komentarUcenik}}</p>
+      </div>
+    </div><br>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon dark-arrow" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon dark-arrow" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <br>
+
+  <h3>Zakazi cas putem forme</h3>
+  <table class="table table-bordered">
+    <tr *ngIf="brojPredmeta > 1">
+      <td class="fw-bold" style="width: 30%;">
+        <label for="predmet" class="form-label">Predmet:</label>
+      </td>
+      <td>
+        <select id="predmet" class="form-select" [(ngModel)]="predmetZakazivanje">
+          <option *ngFor="let predmet of nastavnik.predmeti" [value]="predmet">{{ predmet }}</option>
+        </select>
+      </td>
+    </tr>
+    <tr *ngIf="brojPredmeta === 1">
+      <td class="fw-bold" style="width: 30%;">
+        <label for="predmet" class="form-label">Predmet:</label>
+      </td>
+      <td>
+        <select id="predmet" class="form-select" [(ngModel)]="predmetZakazivanje" disabled>
+          <option *ngFor="let predmet of nastavnik.predmeti" [value]="predmet">{{ predmet }}</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <td class="fw-bold" style="width: 30%;">
+        <label for="datetime" class="form-label">Datum i vreme:</label>
+      </td>
+      <td>
+        <input type="datetime-local" id="datetime" class="form-control" name="datetime" [(ngModel)]="datumZakazivanje">
+      </td>
+    </tr>
+    <tr>
+      <td class="fw-bold" style="width: 30%;">
+        <label for="opis" class="form-label">Tema casa:</label>
+      </td>
+      <td>
+        <input type="text" id="opis" class="form-control" [(ngModel)]="opisZakazivanje">
+      </td>
+    </tr>
+  </table>
+  <input type="checkbox" id="zelimDodatniCas" class="form-check-input" [(ngModel)]="zelimDodatniCas">&nbsp;&nbsp;
+  <label for="zelimDodatniCas" class="form-check-label text-muted" >Zelim dodatni cas</label><br><br>
+  <div *ngIf="poruka!=''">
+    <div *ngIf="poruka==='Uspesno ste zakazali cas.'">
+      <p class="alert alert-success">{{poruka}}</p>
+    </div>
+    <div *ngIf="poruka!=='Uspesno ste zakazali cas.'">
+      <p class="alert alert-danger">{{poruka}}</p>
+    </div>
+  </div>
+  <button class="btn btn-primary btn-lg" (click)="zakaziCasPutemForme()">Zakazi cas</button><br><br>
+
+
+
+</div>

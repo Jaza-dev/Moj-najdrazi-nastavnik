@@ -1,0 +1,20 @@
+<div class="container">
+  <app-admin-navigacija [admin]="admin"></app-admin-navigacija>
+  <br>
+  <ul *ngFor="let ucenik of sviUcenici" class="list-group">
+    <li class="list-group-item">
+      <ul class="list-group">
+        <li class="list-group-item"><b>Korisnicko ime:</b> {{ucenik.korisnickoIme}}</li>
+        <li class="list-group-item"><b>Ime:</b> {{ucenik.ime}}</li>
+        <li class="list-group-item"><b>Prezime:</b> {{ucenik.prezime}}</li>
+        <li class="list-group-item"><b>Pol:</b> {{ucenik.pol}}</li>
+        <li class="list-group-item"><b>Adresa:</b> {{ucenik.adresa}}</li>
+        <li class="list-group-item"><b>Telefon:</b> {{ucenik.telefon}}</li>
+        <li class="list-group-item"><b>E-mail:</b> {{ucenik.email}}</li>
+        <li class="list-group-item"><b>Tip skole:</b> {{ucenik.tipSkole}}</li>
+        <li class="list-group-item"><b>Razred:</b> {{ucenik.razred}}</li>
+      </ul>
+    </li><br>
+  </ul>
+</div>
+

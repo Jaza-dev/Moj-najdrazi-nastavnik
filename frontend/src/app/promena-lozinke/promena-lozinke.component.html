@@ -1,0 +1,32 @@
+<div class="container"><br>
+  <h1 class="text-center">Promena lozinke</h1><br>
+  <div>
+    <div class="form-group">
+      <label for="korisnickoIme" class="col-sm-3 col-form-label">Korisnicko ime:</label>
+      <input type="text" class="form-control col-sm-9" id="korisnickoIme" [(ngModel)]="korisnickoIme">
+    </div><br>
+    <div class="form-group">
+      <label for="staraLoznika" class="col-sm-3 col-form-label">Stara lozinka:</label>
+      <input type="password" class="form-control col-sm-9" id="staraLoznika" [(ngModel)]="staraLoznika">
+    </div><br>
+    <div class="form-group">
+      <label for="novaLozinka" class="col-sm-3 col-form-label">Nova lozinka:</label>
+      <input type="password" class="form-control col-sm-9" id="novaLozinka" [(ngModel)]="novaLozinka">
+    </div><br>
+    <div class="form-group">
+      <label for="ponovljenaNovaLozinka" class="col-sm-3 col-form-label">Ponovljena nova lozinka:</label>
+      <input type="password" class="form-control col-sm-9" id="ponovljenaNovaLozinka" [(ngModel)]="ponovljenaNovaLozinka">
+    </div>
+    <a routerLink="../zaboravljenaLozinka">Zaboravili ste lozinku?</a><br><br>
+    <div class="form-group ">
+      <div class="col-sm-12">
+        <button class="btn btn-primary" (click)="promenaLozinke()">Promeni lozinku</button>
+      </div>
+    </div>
+  </div><br>
+  <p *ngIf="poruka!=''" class="alert alert-danger">{{poruka}}</p>
+  <a routerLink="">Prijava</a><br>
+  <a routerLink="../registracija-ucenik">Registruj se kao ucenik</a><br>
+  <a routerLink="../registracija-nastavnik">Registruj se kao nastavnik</a>
+
+</div>

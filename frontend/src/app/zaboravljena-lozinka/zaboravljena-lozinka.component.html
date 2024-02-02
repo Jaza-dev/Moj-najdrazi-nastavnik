@@ -1,0 +1,44 @@
+<div class="container"><br>
+  <h1 class="text-center">Zaboravljena lozinka</h1><br>
+  <div *ngIf="korak===0">
+    <div class="form-group">
+      <label for="korisnickoIme" class="col-sm-3 col-form-label">Korisnicko ime:</label>
+      <input type="text" class="form-control col-sm-9" id="korisnickoIme" [(ngModel)]="korisnickoIme">
+    </div><br>
+    <div class="form-group ">
+      <div class="col-sm-12">
+        <button class="btn btn-primary" (click)="dohvatiKorisnika()">Dalje</button>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="korak===1">
+    <div class="form-group">
+      <label for="pitanje" class="col-sm-3 col-form-label">{{this.korisnik.pitanje}}</label>
+      <input type="text" class="form-control col-sm-9" id="pitanje" [(ngModel)]="odgovor">
+    </div><br>
+    <div class="form-group ">
+      <div class="col-sm-12">
+        <button class="btn btn-primary" (click)="odgovoriNaPitanje()">Odgovori</button>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="korak===2">
+    <div class="form-group">
+      <label for="novaLozinka" class="col-sm-3 col-form-label">Nova lozinka:</label>
+      <input type="password" class="form-control col-sm-9" id="novaLozinka" [(ngModel)]="novaLozinka">
+    </div><br>
+    <div class="form-group">
+      <label for="ponovljenaLozinka" class="col-sm-3 col-form-label">Ponovljena nova lozinka:</label>
+      <input type="password" class="form-control col-sm-9" id="ponovljenaLozinka" [(ngModel)]="ponovljenaNovaLozinka">
+    </div><br>
+    <div class="form-group ">
+      <div class="col-sm-12">
+        <button class="btn btn-primary" (click)="zboravljenaLozinka()">Promeni lozinku</button>
+      </div>
+    </div>
+  </div><br>
+  <p *ngIf="poruka!=''" class="alert alert-danger">{{poruka}}</p>
+  <a routerLink="">Prijava</a><br>
+  <a routerLink="../registracija-ucenik">Registruj se kao ucenik</a><br>
+  <a routerLink="../registracija-nastavnik">Registruj se kao nastavnik</a>
+</div>

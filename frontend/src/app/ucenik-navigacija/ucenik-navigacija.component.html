@@ -1,0 +1,24 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light navbar-lg">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link text-dark" routerLink="../ucenik">Profil</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-dark" routerLink="../prikazNastavnika">Nastavnici</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-dark" routerLink="../ucenikArhivaCasova">Casovi</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link text-dark" routerLink="../ucenikObavestenja">Obavestenja</a>
+    </li>
+  </ul>
+  <ul class="navbar-nav ms-auto">
+    <li class="nav-item">
+      <a class="nav-link">{{ucenik.ime}} {{ucenik.prezime}}</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="" (click)="odjava()">Odjava</a>
+    </li>
+  </ul>
+</nav>

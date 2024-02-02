@@ -1,0 +1,78 @@
+<div class="container">
+  <app-nastavnik-navigacija [nastavnik]="nastavnik"></app-nastavnik-navigacija>
+  <br>
+  <h3>Potvrdjeni casovi u naredna 3 dana</h3>
+  <br>
+
+  <button class="btn btn-success" (click)="dohvatiPetPrvihPotvrdjenihCasova()">Prikazi prvih 5 casova</button>&nbsp;&nbsp;
+  <button class="btn btn-success" (click)="dohvatiDesetPrvihPotvrdjenihCasova()">Prikazi prvih 10 casova</button>&nbsp;&nbsp;
+  <button class="btn btn-success" (click)="dohvatiSvePotvrdjeneCasove()">Prikazi sve predstojece casove</button><br><br>
+  <div *ngIf="potvrdjeniCasovi.length>0">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>PREDMET</th>
+          <th>IME UCENIKA</th>
+          <th>PREZIME UCENIKA</th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let cas of potvrdjeniCasovi">
+          <td>{{cas.predmet}}</td>
+          <td>{{cas.imeUcenika}}</td>
+          <td>{{cas.prezimeUcenika}}</td>
+          <td *ngIf="daLiJeDozvoljenoOtkazivane(cas.datum)">
+            <button class="btn btn-danger" (click)="otkaziCas(cas)">Otkazi cas</button>
+          </td>
+          <td *ngIf="daLiJeDozvoljenoOtkazivane(cas.datum)">
+            <input type="text" class="form-control" placeholder="Obrazlozenje za otkazivanje" [(ngModel)]="cas.obrazlozenje">
+          </td>
+          <td *ngIf="daLiJeDozvoljenoOtkazivane(cas.datum)===false"></td>
+          <td *ngIf="daLiJeDozvoljenoOtkazivane(cas.datum)===false"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div *ngIf="potvrdjeniCasovi.length===0">
+    <br><p class="alert alert-info">Ne postoje potvrdjeni casovi u naredna 3 dana.</p>
+  </div>
+
+  <h3>Lista zahteva za casovima</h3>
+
+  <div *ngIf="listaZahteva.length>0">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>Predmet</th>
+            <th>Tema</th>
+            <th>Prosecna ocena</th>
+            <th></th>
+            <th></th>
+            <th>Obrazlozenje</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let zahtev of listaZahteva; let i=index">
+            <td>{{zahtev.imeUcenika}}</td>
+            <td>{{zahtev.prezimeUcenika}}</td>
+            <td>{{zahtev.predmet}}</td>
+            <td>{{zahtev.opis}}</td>
+            <td>{{prosecneOcene[i]===0?"/":prosecneOcene[i]}}</td>
+            <td><button class="btn btn-success" (click)="potvrdi(zahtev._id)">Potvrdi</button></td>
+            <td><button class="btn btn-danger" (click)="odbij(zahtev)">Odbij</button></td>
+            <td><input type="text" class="form-control" placeholder="Obrazlozenje za odbijanje" [(ngModel)]="zahtev.obrazlozenje"></td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+  <div *ngIf="listaZahteva.length===0">
+    <br><p class="alert alert-info">Ne postoje zahtevi za casovima.</p>
+  </div>
+
+  <p *ngIf="poruka!=''" class="alert alert-info">{{poruka}}</p>
+
+</div>

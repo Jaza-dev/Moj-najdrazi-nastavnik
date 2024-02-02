@@ -1,0 +1,27 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="../admin">Radna povrsina</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="../adminUcenici">Ucenici</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="../adminNastavnici">Nastavnici</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="../adminZahtevi">Zahtevi</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="../adminPredmeti">Predmeti</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link text-dark">{{admin.korisnickoIme}}</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-dark" routerLink="" (click)="odjava()">Odjava</a>
+      </li>
+    </ul>
+</nav>

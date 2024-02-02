@@ -1,0 +1,75 @@
+<div class="container">
+  <app-ucenik-navigacija [ucenik]="ucenik"></app-ucenik-navigacija>
+  <br>
+
+  <div class="row">
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Ime" [(ngModel)]="imePretraga">
+    </div>
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Prezime" [(ngModel)]="prezimePretraga">
+    </div>
+    <div class="col-md-3">
+      <input class="form-control" type="text" placeholder="Predmet" [(ngModel)]="predmetPretraga">
+    </div>
+    <div class="col-md-3">
+      <button class="btn btn-success" (click)="pretrazi()"><i class="bi bi-search"></i></button>
+    </div>
+  </div>
+
+  <div *ngIf="nastavniciPretraga.length > 0">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="mt-3" *ngFor="let nastavnik of nastavniciPretraga">
+            <table class="table">
+              <tbody>
+                <tr>
+                  <td><b>{{nastavnik.ime}} {{nastavnik.prezime}}</b></td>
+                </tr>
+                <tr>
+                  <td><b>Predmeti koje predaje:</b> {{nastavnik.predmeti}}</td>
+                </tr>
+                <tr>
+                  <td><b>Uzrast kom predaje:</b> {{nastavnik.uzrast}}</td>
+                </tr>
+                <tr>
+                  <td>
+                    <b>Ocena:</b> {{nastavnik.prosecnaOcena}}
+                    <app-prikaz-ocene [ocena]="nastavnik.prosecnaOcena"></app-prikaz-ocene>
+                  </td>
+                </tr>
+                <tr>
+                  <button class="btn btn-primary btn-sm" (click)="nastavnikDetalji(nastavnik)">Detalji</button>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+  </div>
+  <div *ngIf="nastavniciPretraga.length === 0 && pretraga === true">
+    <br><p class="alert alert-info">Ne postoji nastavnik sa datim parametrima.</p>
+  </div>
+
+  <br>
+
+  <div *ngIf="predmeti.length>0">
+      <ul class="list-group">
+        <li class="list-group-item" *ngFor="let predmet of predmeti">
+          <h5>{{ predmet.predmet }}</h5>
+          <ul class="list-group">
+            <li class="list-group-item d-flex justify-content-between" *ngFor="let nastavnik of predmet.nastavnici">
+              <span>
+                {{ nastavnik.ime }} {{ nastavnik.prezime }} {{nastavnik.prosecnaOcena}}
+                <app-prikaz-ocene [ocena]="nastavnik.prosecnaOcena"></app-prikaz-ocene>
+              </span>
+              <button class="btn btn-primary btn-sm" (click)="nastavnikDetalji(nastavnik)">Detalji</button>
+            </li>
+          </ul>
+        </li>
+      </ul>
+  </div>
+  <div *ngIf="predmeti.length===0">
+    <br><p class="alert alert-info">Ne postoje registrovani nastavnici.</p>
+  </div>
+</div>

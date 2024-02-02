@@ -1,0 +1,21 @@
+<div class="container">
+  <app-nastavnik-navigacija [nastavnik]="nastavnik"></app-nastavnik-navigacija>
+  <br>
+  <h3>Moji ucenici</h3>
+
+  <div *ngIf="casovi.length>0">
+      <table class="table table-bordered">
+        <tbody>
+          <tr *ngFor="let ucenik of casovi">
+            <td>Ucenik:</td>
+            <td>{{ucenik.ucenik}}</td>
+            <td><button class="btn btn-primary" (click)="detaljnije(ucenik)">Detalji</button></td>
+          </tr>
+        </tbody>
+      </table>
+  </div>
+  <div *ngIf="casovi.length===0">
+    <br><p class="alert alert-info">Jos uvek nemate svoje ucenike.</p>
+  </div>
+
+</div>
